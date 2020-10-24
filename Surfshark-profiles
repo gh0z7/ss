@@ -14,7 +14,7 @@
 {"server":"de-ber.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇩🇪 Berlin"},
 {"server":"de-fra.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇩🇪 Frankfurt am Main"},
 {"server":"de-muc.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇩🇪 Munich"},
-{"server":"de-nue.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇩🇪 Nuernberg"},
+{"server":"de-nue.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇩🇪 Nürnberg"},
 {"server":"ee-tll.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇪🇪 Tallinn"},
 {"server":"fi-hel.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇫🇮 Helsinki"},
 {"server":"fr-bod.prod.surfshark.com", "server_port":33992, "local_port":1080, "password":"8n6pwAcrrv2pj6tFY2p3TbQ6", "timeout":5, "method":"aes-256-gcm", "remarks": "🇫🇷 Bordeaux"},
