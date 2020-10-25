@@ -470,7 +470,7 @@
     "remarks": "🇪🇸 Madrid"
   },
   {
-    "server": "es-val.prod.surfshark.com",
+    "server": "es-vlc.prod.surfshark.com",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
