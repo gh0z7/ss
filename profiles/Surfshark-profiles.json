@@ -490,6 +490,17 @@
     "remarks": "🇳🇿 Auckland"
   },
   {
+    "server": "mk-skp.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "94.140.14.14",
+    "remarks": "🇲🇰 Skopje"
+  },
+  {
+  {
     "server": "no-osl.prod.surfshark.com",
     "server_port": 33992,
     "local_port": 1080,
