@@ -561,6 +561,26 @@
     "remarks": "🇷🇸 Belgrade"
   },
   {
+    "server": "sk-bts.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "94.140.14.14",
+    "remarks": "🇸🇰 Bratislava"
+  },
+  {
+    "server": "si-lju.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "94.140.14.14",
+    "remarks": "🇸🇮 Ljubljana"
+  },
+  {
     "server": "es-bcn.prod.surfshark.com",
     "server_port": 33992,
     "local_port": 1080,
