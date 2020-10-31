@@ -1,9 +1,9 @@
 # Shadowsocks subsriptions
-|#  |VPN Service|DNS    |Subscription|Comments               |
-|:-:|:----------|:-----:|:----------:|:---------------------:|
-|1  |Surfshark  |Adguard|[JSON][1]   |Ad and track protection|
-|2  |Surfshark  |Google |[JSON][2]   |                       |
+|#  |VPN Service|DNS    |Subscription              |Comments               |
+|:-:|:----------|:-----:|:------------------------:|:---------------------:|
+|1  |Surfshark  |Adguard|[JSON][adguard-default]   |Ad and track protection|
+|2  |Surfshark  |Google |[JSON][google]            |                       |
 
 
-[1]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Adguard_basic)
-[2]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Google)
+[adguard-default]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Adguard-default)
+[google]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Google)
