@@ -1,0 +1,1122 @@
+[
+  {
+    "server": "al-tia.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇱 Tirana"
+  },
+  {
+    "server": "ar-bua.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇷 Buenos Aires"
+  },
+  {
+    "server": "au-adl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇺 Adelaide"
+  },
+  {
+    "server": "au-bne.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇺 Brisbane"
+  },
+  {
+    "server": "au-mel.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇺 Melbourne"
+  },
+  {
+    "server": "au-per.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇺 Perth"
+  },
+  {
+    "server": "au-syd.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇺 Sydney"
+  },
+  {
+    "server": "at-vie.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇹 Vienna"
+  },
+  {
+    "server": "az-bak.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇿 Baku"
+  },
+  {
+    "server": "be-bru.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇧🇪 Brussels"
+  },
+  {
+    "server": "ba-sjj.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇧🇦 Sarajevo"
+  },
+  {
+    "server": "br-sao.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇧🇷 São Paulo"
+  },
+  {
+    "server": "bg-sof.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇧🇬 Sofia"
+  },
+  {
+    "server": "ca-mon.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇦 Montreal"
+  },
+  {
+    "server": "ca-tor.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇦 Toronto"
+  },
+  {
+    "server": "ca-van.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇦 Vancouver"
+  },
+  {
+    "server": "cl-san.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇱 Santiago"
+  },
+  {
+    "server": "co-bog.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇴 Bogota"
+  },
+  {
+    "server": "cr-sjn.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇷 San Jose"
+  },
+  {
+    "server": "hr-zag.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇭🇷 Zagreb"
+  },
+  {
+    "server": "cy-nic.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇾 Nicosia"
+  },
+  {
+    "server": "cz-prg.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇿 Praga"
+  },
+  {
+    "server": "dk-cph.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇩🇰 Copenhagen"
+  },
+  {
+    "server": "de-ber.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇩🇪 Berlin"
+  },
+  {
+    "server": "de-fra.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇩🇪 Frankfurt am Main"
+  },
+  {
+    "server": "de-muc.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇩🇪 Munich"
+  },
+  {
+    "server": "de-nue.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇩🇪 Nürnberg"
+  },
+  {
+    "server": "gr-ath.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇬🇷 Greece"
+  },
+  {
+    "server": "ee-tll.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇪 Tallinn"
+  },
+  {
+    "server": "fi-hel.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇫🇮 Helsinki"
+  },
+  {
+    "server": "fr-bod.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇫🇷 Bordeaux"
+  },
+  {
+    "server": "fr-mrs.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇫🇷 Marseille"
+  },
+  {
+    "server": "fr-par.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇫🇷 Paris"
+  },
+  {
+    "server": "hu-bud.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇭🇺 Budapest"
+  },
+  {
+    "server": "hk-hkg.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇭🇰 Hong Kong"
+  },
+  {
+    "server": "in-chn.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇳 Chennai"
+  },
+  {
+    "server": "in-idr.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇳 Indore"
+  },
+  {
+    "server": "in-mum.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇳 Mumbai"
+  },
+  {
+    "server": "id-jak.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇩 Jakarta"
+  },
+  {
+    "server": "is-rkv.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇸 Reykjavik"
+  },
+  {
+    "server": "ie-dub.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇪 Dublin"
+  },
+  {
+    "server": "il-tlv.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇱 Tel Aviv"
+  },
+  {
+    "server": "it-mil.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇹 Milan"
+  },
+  {
+    "server": "it-rom.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇮🇹 Rome"
+  },
+  {
+    "server": "jp-tok.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇯🇵 Tokyo"
+  },
+  {
+    "server": "kz-ura.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇰🇿 Oral"
+  },
+  {
+    "server": "lv-rig.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇱🇻 Riga"
+  },
+  {
+    "server": "ly-tip.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇱🇾 Tripoli"
+  },
+  {
+    "server": "lu-ste.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇱🇺 Luxembourg"
+  },
+  {
+    "server": "my-kul.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇲🇾 Kuala Lumpur"
+  },
+  {
+    "server": "md-chi.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇲🇩 Chisinau"
+  },
+  {
+    "server": "nl-ams.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇳🇱 Amsterdam"
+  },
+  {
+    "server": "py-asu.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇾 Asunción"
+  },
+  {
+    "server": "ph-mnl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇭 Manila"
+  },
+  {
+    "server": "pl-gdn.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇱 Gdansk"
+  },
+  {
+    "server": "pl-waw.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇱 Warsaw"
+  },
+  {
+    "server": "pt-lis.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇹 Lisbon"
+  },
+  {
+    "server": "pt-lou.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇹 Loule"
+  },
+  {
+    "server": "pt-opo.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇵🇹 Porto"
+  },
+  {
+    "server": "nz-akl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇳🇿 Auckland"
+  },
+  {
+    "server": "mk-skp.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇲🇰 Skopje"
+  },
+  {
+    "server": "ng-lag.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇳🇬 Lagos"
+  },
+  {
+    "server": "no-osl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇳🇴 Oslo"
+  },
+  {
+    "server": "ro-buc.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇷🇴 Bucharest"
+  },
+  {
+    "server": "ru-mos.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇷🇺 Moscow"
+  },
+  {
+    "server": "ru-spt.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇷🇺 Saint-Petersburg"
+  },
+  {
+    "server": "sg-sng.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇸🇬 Singapore"
+  },
+  {
+    "server": "kr-seo.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇰🇷 Seoul"
+  },
+  {
+    "server": "rs-beg.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇷🇸 Belgrade"
+  },
+  {
+    "server": "sk-bts.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇸🇰 Bratislava"
+  },
+  {
+    "server": "si-lju.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇸🇮 Ljubljana"
+  },
+  {
+    "server": "za-jnb.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇿🇦 Johannesburg"
+  },
+  {
+    "server": "es-bcn.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇸 Barcelona"
+  },
+  {
+    "server": "es-mad.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇸 Madrid"
+  },
+  {
+    "server": "es-vlc.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇸 Valencia"
+  },
+  {
+    "server": "se-sto.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇸🇪 Stockholm"
+  },
+  {
+    "server": "ch-zur.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇨🇭 Zurich"
+  },
+  {
+    "server": "tw-tai.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇹🇼 Taichung City"
+  },
+  {
+    "server": "th-bkk.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇹🇭 Bangkok"
+  },
+  {
+    "server": "tr-bur.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇹🇷 Bursa"
+  },
+  {
+    "server": "tr-ist.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇹🇷 Istanbul"
+  },
+  {
+    "server": "ae-dub.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇦🇪 Dubai"
+  },
+  {
+    "server": "uk-gla.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇬🇧 Glasgow"
+  },
+  {
+    "server": "uk-lon.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇬🇧 London"
+  },
+  {
+    "server": "uk-man.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇬🇧 Manchester"
+  },
+  {
+    "server": "uk-lon.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇬🇧 London"
+  },
+  {
+    "server": "us-atl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Atlanta"
+  },
+  {
+    "server": "us-bdn.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Bend"
+  },
+  {
+    "server": "us-bos.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Boston"
+  },
+  {
+    "server": "us-buf.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Buffalo"
+  },
+  {
+    "server": "us-clt.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Charlotte"
+  },
+  {
+    "server": "us-chi.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Chicago"
+  },
+  {
+    "server": "us-dal.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Dallas"
+  },
+  {
+    "server": "us-den.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Denver"
+  },
+  {
+    "server": "us-dtw.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Detroit"
+  },
+  {
+    "server": "us-hou.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Houston"
+  },
+  {
+    "server": "us-kan.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Kansas City"
+  },
+  {
+    "server": "us-las.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Las Vegas"
+  },
+  {
+    "server": "us-ltm.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Latham"
+  },
+  {
+    "server": "us-lax.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Los Angeles"
+  },
+  {
+    "server": "us-mnz.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Manassas"
+  },
+  {
+    "server": "us-mia.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Miami"
+  },
+  {
+    "server": "us-nyc.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 New York"
+  },
+  {
+    "server": "us-orl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Orlando"
+  },
+  {
+    "server": "us-phx.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Phoenix"
+  },
+  {
+    "server": "us-stl.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Saint Louis"
+  },
+  {
+    "server": "us-slc.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Salt Lake City"
+  },
+  {
+    "server": "us-sfo.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 San Francisco"
+  },
+  {
+    "server": "us-sea.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Seattle"
+  },
+  {
+    "server": "us-tpa.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇸 Tampa"
+  },
+  {
+    "server": "ua-iev.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇺🇦 Київ"
+  },
+  {
+    "server": "vn-hcm.prod.surfshark.com",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇻🇳 Ho Chi Minh City"
+  }
+]
