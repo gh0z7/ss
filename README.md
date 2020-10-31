@@ -1,4 +1,4 @@
-# SS-Sub
+# Shadowsocks subsription
 |#  |VPN Service|DNS    |Subscription|Comments               |
 |:-:|:----------|:-----:|:----------:|:---------------------:|
 |1  |Surfshark  |Adguard|[JSON][1]    |Ad and track protection|
