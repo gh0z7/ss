@@ -8,4 +8,4 @@
 
 [adguard-default]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Adguard-default)
 [google]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Google)
-[cloudflare-default]: https://github.com/gh0z7/ss/blob/master/profiles/Surfshark-(Cloudflare-default)
+[cloudflare-default]: https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-(Cloudflare-default)
