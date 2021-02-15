@@ -15,7 +15,6 @@
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "method": "aes-256-gcm",
     "remarks": "🇮🇸 Reykjavik",
-    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
     "timeout": 5,
     "warnLegacyUrl": false
   },
