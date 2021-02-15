@@ -1,0 +1,92 @@
+[
+  {
+    "server": "82.221.143.63",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.143.65",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.143.69",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.143.70",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.143.72",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.128.157",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.128.168",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.128.170",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  },
+  {
+    "server": "82.221.128.179",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇸 Reykjavik",
+    "group": "https://github.com/gh0z7/ss/raw/master/profiles/Surfshark-IPs-(Cloudflare).json",
+    "timeout": 5,
+    "warnLegacyUrl": false
+  }
+]
