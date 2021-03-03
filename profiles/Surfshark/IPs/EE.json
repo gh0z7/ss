@@ -1,6 +1,6 @@
 [
   {
-    "server": "165.231.163.21",
+    "server": "165.231.163.22",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -11,7 +11,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "165.231.163.23",
+    "server": "165.231.163.24",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -22,7 +22,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "165.231.163.5",
+    "server": "165.231.163.6",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -33,7 +33,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "165.231.163.7",
+    "server": "165.231.163.8",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -44,7 +44,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.51",
+    "server": "185.174.159.52",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -55,7 +55,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.53",
+    "server": "185.174.159.54",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -66,7 +66,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.59",
+    "server": "185.174.159.60",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -77,7 +77,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.61",
+    "server": "185.174.159.62",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -88,7 +88,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.67",
+    "server": "185.174.159.68",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -99,7 +99,7 @@
     "remarks": "🇪🇪 Tallinn"
   },
   {
-    "server": "185.174.159.69",
+    "server": "185.174.159.70",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
@@ -122,6 +122,39 @@
   },
   {
     "server": "185.174.159.70",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "metered": true,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇪 Tallinn"
+  },
+  {
+    "server": "185.174.159.132",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "metered": true,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇪 Tallinn"
+  },
+  {
+    "server": "185.174.159.137",
+    "server_port": 33992,
+    "local_port": 1080,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "timeout": 5,
+    "metered": true,
+    "method": "aes-256-gcm",
+    "remote_dns": "1.1.1.1",
+    "remarks": "🇪🇪 Tallinn"
+  },
+  {
+    "server": "185.174.159.139",
     "server_port": 33992,
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
