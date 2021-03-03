@@ -5,6 +5,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -15,6 +16,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -25,6 +27,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -35,6 +38,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -45,6 +49,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -55,6 +60,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -65,6 +71,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -75,6 +82,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -85,6 +93,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -95,6 +104,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -105,6 +115,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
@@ -115,6 +126,7 @@
     "local_port": 1080,
     "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
     "timeout": 5,
+    "metered": true,
     "method": "aes-256-gcm",
     "remote_dns": "1.1.1.1",
     "remarks": "🇪🇪 Tallinn"
