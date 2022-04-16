@@ -4,7 +4,7 @@
     "server_port": 800,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇪-Outline +Protection +metered",
+    "remarks": "🇸🇪-Outline +protection +metered",
     "route": "all",
     "remote_dns": "94.140.14.14",
     "ipv6": false,
