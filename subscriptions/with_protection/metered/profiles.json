@@ -1,0 +1,17 @@
+[
+  {
+    "server": "ak1112.www.getoutline.net",
+    "server_port": 800,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪-Outline-with_protection-metered",
+    "route": "all",
+    "remote_dns": "94.140.14.14",
+    "ipv6": false,
+    "metered": true,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
